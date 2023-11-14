@@ -1,0 +1,3 @@
+C:/Users/deidd/OneDrive/Desktop/Codici ASD/Esercitazioni/cmake-build-release/CMakeFiles/Esercitazioni.dir
+C:/Users/deidd/OneDrive/Desktop/Codici ASD/Esercitazioni/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/deidd/OneDrive/Desktop/Codici ASD/Esercitazioni/cmake-build-release/CMakeFiles/rebuild_cache.dir
